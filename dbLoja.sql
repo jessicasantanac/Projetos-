@@ -1,4 +1,4 @@
--- exercicio 1
+
 create database Loja;
 use Loja;
 
